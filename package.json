@@ -1,0 +1,29 @@
+{
+  "name": "core.io-persistence",
+  "version": "0.0.0",
+  "description": "core.io persistence module",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goliatone/core.io-persistence.git"
+  },
+  "keywords": [
+    "core.io",
+    "persistence",
+    "waterline"
+  ],
+  "author": "goliatone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goliatone/core.io-persistence/issues"
+  },
+  "homepage": "https://github.com/goliatone/core.io-persistence#readme",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "gextend": "^0.3.0",
+    "waterline": "^0.11.8"
+  }
+}
