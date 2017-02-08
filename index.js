@@ -22,7 +22,7 @@ var DEFAULTS = {
     timeout: 0.5 * 60 * 1000,// 30s timeout,
     modelsDir: process.cwd() + '/models',
     REGEXP_FILE: /[^\/\~]$/,
-    orm: require('./config')
+    orm: require('./lib/config')
 };
 
 
