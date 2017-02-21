@@ -14,10 +14,10 @@ module.exports.BaseModel = require('./lib/BaseModel');
 
 /*
  * Default initializer for the module.
- * 
+ *
  * You can always override this and make
  * a custom initializer.
  */
-module.exports.initializer = require('./lib/init');
+module.exports.init = require('./lib/init');
 
 module.exports.capitalize = require('./lib/capitalize');
