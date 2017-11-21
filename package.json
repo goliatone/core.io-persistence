@@ -24,6 +24,7 @@
   "dependencies": {
     "bluebird": "^3.4.7",
     "gextend": "^0.3.0",
+    "invalidate-module": "^1.0.0",
     "random-uuid-v4": "0.0.6",
     "sails-disk": "^0.10.10",
     "waterline": "^0.11.8"
