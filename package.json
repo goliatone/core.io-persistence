@@ -1,6 +1,6 @@
 {
   "name": "core.io-persistence",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "core.io persistence module",
   "main": "index.js",
   "scripts": {
