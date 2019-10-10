@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/goliatone/core.io-persistence#readme",
   "dependencies": {
-    "bluebird": "^3.5.5",
+    "bluebird": "^3.7.0",
     "gextend": "^0.6.0",
     "noop-console": "^0.8.0",
     "random-uuid-v4": "0.0.9",
@@ -30,7 +30,7 @@
     "waterline": "^0.13.6"
   },
   "devDependencies": {
-    "normalize-url": "^4.3.0",
+    "normalize-url": "^4.5.0",
     "sails-mongo": "^1.0.1"
   }
 }
